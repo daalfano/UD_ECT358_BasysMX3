@@ -32,7 +32,7 @@
 
 /***	SWT_Init
 **
-**	Parameters:
+**	Parameters: 
 **		
 **
 **	Return Value:
